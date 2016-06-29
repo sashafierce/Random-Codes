@@ -1,3 +1,5 @@
+//Akanksha Bhardwaj - IIITA
+// Program for Minimum distance between two nodes in a binary tree using recursion.
 #include<stdio.h>
 #include<stdlib.h>
 struct node
